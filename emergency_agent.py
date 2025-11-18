@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 """
 Emergency Preparedness AI Agent - Enhanced User-Friendly Edition
-A beautiful, interactive Streamlit application for disaster preparedness
+An interactive Streamlit application for disaster preparedness
 
 Run with: streamlit run emergency_prep_app_enhanced.py
 """
