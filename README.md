@@ -27,19 +27,3 @@ Tool Selection: Intelligently chooses appropriate resources
 Context Awareness: Understands and adapts to user needs
 Actionable Guidance: Provides practical, implementable advice
 
-📦 Project Structure
-emergency-prep-agent/
-│
-├── emergency_agent.py      # Main application file
-├── requirements.txt         # Python dependencies
-├── README.md               # This file
-├── LICENSE                 # MIT License
-│
-├── assets/                 # Screenshots and GIFs
-│   ├── demo.gif
-│   ├── screenshot1.png
-│   └── screenshot2.png
-│
-└── docs/                   # Additional documentation
-    ├── CONTRIBUTING.md
-    └── API.md
